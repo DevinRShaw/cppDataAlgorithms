@@ -1,7 +1,7 @@
 # cppDataAlgorithms
 This repo contains my personal solutions to various data structure and algorithm problems implemented in C++, with explanations for each solution. 
 
-# Reverse Binary Search
+# reverseBinarySearch
 
 ## Problem Statement
 
